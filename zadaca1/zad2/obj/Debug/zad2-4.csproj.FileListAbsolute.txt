@@ -1,0 +1,6 @@
+C:\Users\Ignotus\Documents\github\1.-Zadaca\zadaca1\zad2\bin\Debug\zad2-4.exe.config
+C:\Users\Ignotus\Documents\github\1.-Zadaca\zadaca1\zad2\bin\Debug\zad2-4.exe
+C:\Users\Ignotus\Documents\github\1.-Zadaca\zadaca1\zad2\bin\Debug\zad2-4.pdb
+C:\Users\Ignotus\Documents\github\1.-Zadaca\zadaca1\zad2\obj\Debug\zad2-4.csprojResolveAssemblyReference.cache
+C:\Users\Ignotus\Documents\github\1.-Zadaca\zadaca1\zad2\obj\Debug\zad2-4.exe
+C:\Users\Ignotus\Documents\github\1.-Zadaca\zadaca1\zad2\obj\Debug\zad2-4.pdb
